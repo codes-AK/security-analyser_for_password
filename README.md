@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Syntax Error team logo" width="220">
+  <img src="logo.png" alt="Syntax Error team logo" width="220">
 </p>
 
 # Password Strength Analyzer
