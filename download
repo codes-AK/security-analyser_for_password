@@ -1,0 +1,10 @@
+# Compiled programs
+*.exe
+*.out
+a.out
+pa
+
+# Editor files
+.vscode/
+.idea/
+*.o
